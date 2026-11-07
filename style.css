@@ -129,6 +129,9 @@
     .container {
         font-size: 12px;
     }
+    .container .left-container .form-group input{
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 792px) {
